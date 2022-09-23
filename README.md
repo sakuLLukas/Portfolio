@@ -1,3 +1,9 @@
-# My portfolio.
+# Lukas' Portfolio 
 
-# Made with mainly HTML & CSS. It's a bootstrapped website as well.
+
+## Features 
+
+Fully Responsive\
+Valid HTML5 & CSS3\
+Typing animation using `Typed.js`\
+
